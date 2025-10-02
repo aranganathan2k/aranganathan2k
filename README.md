@@ -12,6 +12,8 @@
 - **Languages**: Tamil, English
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/aranganathan2k/count.svg)
+
 
 ## 💼 Skills
 
