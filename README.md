@@ -62,5 +62,7 @@
 - Listening to music
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/aranganathan2k/count.svg)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/aranganathan2k/count.svg)
